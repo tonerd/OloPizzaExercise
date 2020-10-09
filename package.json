@@ -1,0 +1,35 @@
+{
+  "name": "Olo",
+  "version": "0.0.1",
+  "description": "Olo Coding Exercise",
+  "main": "app.js",
+  "author": "David Toner",
+  "dependencies": {
+    "axios": "~0.20.0",
+    "bootstrap": "~4.5.2",
+    "express": "~4.17.1",
+    "helmet": "~4.1.1",
+    "isomorphic-fetch": "~3.0.0",
+    "react": "~16.13.1",
+    "react-dom": "~16.13.1",
+    "react-redux": "~7.2.1",
+    "react-router-dom": "~5.2.0",
+    "redux": "~4.0.5",
+    "redux-thunk": "~2.3.0"
+  },
+  "devDependencies": {
+    "@babel/core": "~7.11.6",
+    "@babel/preset-env": "~7.11.5",
+    "@babel/preset-react": "~7.10.4",
+    "babelify": "~10.0.0",
+    "browserify": "~16.5.2",
+    "gulp": "~4.0.2",
+    "gulp-concat": "~2.6.1",
+    "gulp-csso": "~4.0.1",
+    "gulp-rename": "~2.0.0",
+    "gulp-sass": "~4.1.0",
+    "gulp-uglify": "~3.0.2",
+    "vinyl-buffer": "~1.0.1",
+    "vinyl-source-stream": "~2.0.0"
+  }
+}

@@ -1,0 +1,14 @@
+$background_color: #2c2e3a;
+$primary_color: #25b3e2;
+$secondary_color: #f8f9fe;
+$tertiary_color: #e7eaf3;
+
+body {
+  background-color: $background_color;
+
+  h1 {
+    color: $primary_color;
+    padding-bottom: 3rem;
+    padding-top: 3rem;
+  }
+}
